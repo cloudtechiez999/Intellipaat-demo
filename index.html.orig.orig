@@ -6,10 +6,13 @@
 <h1>Change from another developer</h1>
 <h1>Change from another developer</h1>
 <h1>Change from another developer</h1>
+<<<<<<< HEAD
 This is a single line changve
 
-just some more test changes
+=======
+
 This is another change from qworker 22222
+>>>>>>> worker 2 changes
 This is part of the first commit 
 
 
