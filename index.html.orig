@@ -6,8 +6,13 @@
 <h1>Change from another developer</h1>
 <h1>Change from another developer</h1>
 <h1>Change from another developer</h1>
+<<<<<<< HEAD
+This is a single line changve
 
+=======
 
+This is another change from qworker 22222
+>>>>>>> worker 2 changes
 This is part of the first commit 
 
 
@@ -18,9 +23,7 @@ This is to show the git rebase example
 
 This is a change rfom worker 111111
 
-<<<<<<< HEAD
+
 This is a change grom worker 222222
 
-=======
 This will cause a conflit again
->>>>>>> conflict error
