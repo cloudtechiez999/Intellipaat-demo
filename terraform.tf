@@ -13,3 +13,6 @@ provider "aws" {
  region = "us-east-1"
 >>>>>>> worker 2 changes
 }
+
+
+This is an example for feature branching
